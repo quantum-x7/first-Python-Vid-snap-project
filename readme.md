@@ -62,3 +62,5 @@ Learn Flask basics
 Practice frontend–backend integration
 
 Build foundation for larger AI-based apps
+
+-Thank You
